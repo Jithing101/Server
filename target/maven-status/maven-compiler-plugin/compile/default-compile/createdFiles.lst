@@ -1,0 +1,4 @@
+com\falcon\service\copy\UserService.class
+com\falcon\SpringMainApplication.class
+com\falcon\controller\UserController.class
+com\falcon\entity\UserDetails.class
